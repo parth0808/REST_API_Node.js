@@ -1,6 +1,6 @@
 # Required Dependencies for this project 
 
-### dependencies
+### Dependencies
 
 1. body-parser 1.19.0
 2. express 4.17.1
