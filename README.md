@@ -1,6 +1,6 @@
-# Required Dependancies for this project 
+# Required Dependencies for this project 
 
-dependencies: 
+##dependencies: 
     body-parser: ^1.19.0
     express: ^4.17.1
     mongodb: ^3.3.2
